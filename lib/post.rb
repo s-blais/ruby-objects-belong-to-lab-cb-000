@@ -1,4 +1,4 @@
-class Songs
+class Post
 
   attr_accessor :title
 
